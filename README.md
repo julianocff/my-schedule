@@ -5,7 +5,7 @@
 
 ## Baixe o projeto com o comando:
 
-### `https://github.com/julianocff/my-schedule.git`
+### `git clone https://github.com/julianocff/my-schedule.git`
 
 ## Na raiz do projeto, execute o comando:
 
